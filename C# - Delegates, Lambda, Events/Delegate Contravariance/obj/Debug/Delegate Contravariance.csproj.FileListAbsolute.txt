@@ -1,0 +1,7 @@
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Delegate Contravariance\bin\Debug\Delegate Contravariance.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Delegate Contravariance\obj\Debug\Delegate Contravariance.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Delegate Contravariance\bin\Debug\Delegate Contravariance.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Delegate Contravariance\bin\Debug\Delegate Contravariance.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Delegate Contravariance\bin\Debug\Delegate Contravariance.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Delegate Contravariance\obj\Debug\Delegate Contravariance.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Delegate Contravariance\obj\Debug\Delegate Contravariance.pdb

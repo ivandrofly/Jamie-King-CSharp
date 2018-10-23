@@ -1,0 +1,8 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Static's Roots\bin\Release\Static's Roots.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Static's Roots\obj\Release\Static's Roots.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Static's Roots\obj\Release\Static's Roots.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Statics Roots\bin\Release\Statics Roots.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Statics Roots\bin\Release\Statics Roots.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Statics Roots\bin\Release\Statics Roots.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Statics Roots\obj\Release\Statics Roots.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Statics Roots\obj\Release\Statics Roots.pdb

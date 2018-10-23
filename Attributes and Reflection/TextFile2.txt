@@ -1,0 +1,52 @@
+
+public struct ChessMove
+{
+    public int StartRow { get; set; }
+    public int EndRow { get; set; }
+    public int StartColumn { get; set; }
+    public int EndColumn { get; set; }
+}
+
+public enum ChessPiece
+{
+    King,
+    Queen,
+    Bishop,
+    Castle,
+    Pawn
+}
+
+public interface IChessGame
+{
+    ChessMove MakeMove(ChessPiece[,] board);
+}
+
+=================
+public class MyChessAlgorithm : IChessGame
+{
+    public ChessMove MakeMove(ChessPiece[,] board)
+    {
+        return new ChessMove
+        {
+            StartRow = 1,
+            EndRow = 2,
+            StartColumn = 3,
+            EndColumn = 4
+        };
+    }
+}
+
+=================
+public class YourChessAlgorithm : IChessGame
+{
+    public ChessMove MakeMove(ChessPiece[,] board)
+    {
+        return new ChessMove
+        {
+            StartRow = 100,
+            EndRow = 200,
+            StartColumn = 232,
+            EndColumn = 423
+        };
+    }
+}

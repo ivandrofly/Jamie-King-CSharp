@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Closures\bin\Debug\Closures.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Closures\bin\Debug\Closures.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Closures\bin\Debug\Closures.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Closures\obj\Debug\Closures.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Closures\obj\Debug\Closures.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Closures\obj\Debug\Closures.pdb

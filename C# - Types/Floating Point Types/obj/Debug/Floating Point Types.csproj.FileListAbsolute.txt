@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Floating Point Types\bin\Debug\Floating Point Types.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Floating Point Types\bin\Debug\Floating Point Types.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Floating Point Types\bin\Debug\Floating Point Types.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Floating Point Types\obj\Debug\Floating Point Types.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Floating Point Types\obj\Debug\Floating Point Types.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Floating Point Types\obj\Debug\Floating Point Types.pdb

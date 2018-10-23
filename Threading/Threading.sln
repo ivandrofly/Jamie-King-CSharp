@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer Consumer Thread Sync Issues", "Producer Consumer Thread Sync Issues\Producer Consumer Thread Sync Issues.csproj", "{F8216EEA-370E-4ACA-961A-5B3241E9475C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread Sync Issue", "Thread Sync Issue\Thread Sync Issue.csproj", "{33164DB1-2998-4E92-B35E-BF91919B387B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locking Doesn't Necessarily Lock", "Locking Doesn't Necessarily Lock\Locking Doesn't Necessarily Lock.csproj", "{22C72017-E8AF-4068-9524-9F047905FAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide and Conquer", "Divide and Conquer\Divide and Conquer.csproj", "{5FCB26EF-B570-409C-AB48-347CBA58BAF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8216EEA-370E-4ACA-961A-5B3241E9475C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8216EEA-370E-4ACA-961A-5B3241E9475C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8216EEA-370E-4ACA-961A-5B3241E9475C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8216EEA-370E-4ACA-961A-5B3241E9475C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33164DB1-2998-4E92-B35E-BF91919B387B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33164DB1-2998-4E92-B35E-BF91919B387B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33164DB1-2998-4E92-B35E-BF91919B387B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33164DB1-2998-4E92-B35E-BF91919B387B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C72017-E8AF-4068-9524-9F047905FAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C72017-E8AF-4068-9524-9F047905FAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C72017-E8AF-4068-9524-9F047905FAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C72017-E8AF-4068-9524-9F047905FAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCB26EF-B570-409C-AB48-347CBA58BAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCB26EF-B570-409C-AB48-347CBA58BAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCB26EF-B570-409C-AB48-347CBA58BAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCB26EF-B570-409C-AB48-347CBA58BAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

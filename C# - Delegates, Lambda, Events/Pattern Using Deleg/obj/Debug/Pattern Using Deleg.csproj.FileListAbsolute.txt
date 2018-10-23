@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Pattern Using Deleg\bin\Debug\Pattern Using Deleg.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Pattern Using Deleg\bin\Debug\Pattern Using Deleg.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Pattern Using Deleg\bin\Debug\Pattern Using Deleg.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Pattern Using Deleg\obj\Debug\Pattern Using Deleg.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Pattern Using Deleg\obj\Debug\Pattern Using Deleg.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Pattern Using Deleg\obj\Debug\Pattern Using Deleg.pdb

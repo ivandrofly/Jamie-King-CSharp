@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Primitive Types\bin\Debug\Primitive Types.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Primitive Types\bin\Debug\Primitive Types.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Primitive Types\bin\Debug\Primitive Types.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Primitive Types\obj\Debug\Primitive Types.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Primitive Types\obj\Debug\Primitive Types.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Types\Primitive Types\obj\Debug\Primitive Types.pdb

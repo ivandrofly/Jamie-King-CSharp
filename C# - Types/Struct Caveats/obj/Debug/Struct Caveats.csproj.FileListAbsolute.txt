@@ -1,0 +1,1 @@
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Types\Struct Caveats\bin\Debug\Struct Caveats.exe.config

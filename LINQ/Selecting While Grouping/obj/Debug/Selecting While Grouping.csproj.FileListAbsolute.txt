@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Selecting While Grouping\bin\Debug\Selecting While Grouping.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Selecting While Grouping\bin\Debug\Selecting While Grouping.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Selecting While Grouping\bin\Debug\Selecting While Grouping.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Selecting While Grouping\obj\Debug\Selecting While Grouping.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Selecting While Grouping\obj\Debug\Selecting While Grouping.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Selecting While Grouping\obj\Debug\Selecting While Grouping.csprojResolveAssemblyReference.cache

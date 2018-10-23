@@ -1,0 +1,1 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\LINQ\Deferred Execution - Assembly Line\bin\Debug\Deferred Execution - Assembly Line.exe.config

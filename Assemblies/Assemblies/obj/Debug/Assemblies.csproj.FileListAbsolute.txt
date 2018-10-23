@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\Assemblies\Assemblies\bin\Debug\Assemblies.dll.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\Assemblies\Assemblies\bin\Debug\Assemblies.dll
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\Assemblies\Assemblies\bin\Debug\Assemblies.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\Assemblies\Assemblies\obj\Debug\Assemblies.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\Assemblies\Assemblies\obj\Debug\Assemblies.dll
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\Assemblies\Assemblies\obj\Debug\Assemblies.pdb

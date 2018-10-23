@@ -1,0 +1,1 @@
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\GroupBy\bin\Debug\GroupBy.exe.config

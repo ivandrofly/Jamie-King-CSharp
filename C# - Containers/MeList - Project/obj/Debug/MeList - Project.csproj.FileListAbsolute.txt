@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\MeList - Project\bin\Debug\MeList - Project.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\MeList - Project\bin\Debug\MeList - Project.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\MeList - Project\bin\Debug\MeList - Project.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\MeList - Project\obj\Debug\MeList - Project.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\MeList - Project\obj\Debug\MeList - Project.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\MeList - Project\obj\Debug\MeList - Project.pdb

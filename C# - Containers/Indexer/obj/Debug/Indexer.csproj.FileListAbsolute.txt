@@ -1,0 +1,5 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Indexer\bin\Debug\Indexer.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Indexer\obj\Debug\Indexer.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Indexer\obj\Debug\Indexer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Threading\Locking Doesn't Necessarily Lock\bin\Debug\Locking Doesn't Necessarily Lock.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Threading\Locking Doesn't Necessarily Lock\bin\Debug\Locking Doesn't Necessarily Lock.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Threading\Locking Doesn't Necessarily Lock\bin\Debug\Locking Doesn't Necessarily Lock.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Threading\Locking Doesn't Necessarily Lock\obj\Debug\Locking Doesn't Necessarily Lock.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Threading\Locking Doesn't Necessarily Lock\obj\Debug\Locking Doesn't Necessarily Lock.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Threading\Locking Doesn't Necessarily Lock\obj\Debug\Locking Doesn't Necessarily Lock.csprojResolveAssemblyReference.cache

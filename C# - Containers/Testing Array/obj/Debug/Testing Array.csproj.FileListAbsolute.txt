@@ -1,0 +1,7 @@
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Containers\Arrays\Testing Array\bin\Debug\Testing Array.exe.config
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Containers\Arrays\Testing Array\bin\Debug\Testing Array.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Containers\Arrays\Testing Array\bin\Debug\Testing Array.pdb
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Containers\Arrays\Testing Array\bin\Debug\Testing Array.exe.CodeAnalysisLog.xml
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Containers\Arrays\Testing Array\bin\Debug\Testing Array.exe.lastcodeanalysissucceeded
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Containers\Arrays\Testing Array\obj\Debug\Testing Array.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Containers\Arrays\Testing Array\obj\Debug\Testing Array.pdb

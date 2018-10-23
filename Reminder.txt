@@ -1,0 +1,2 @@
+where T: struct Constraints:
+http://msdn.microsoft.com/en-us/library/d5x73970.aspx

@@ -1,0 +1,69 @@
+﻿            //var vid = new Video
+            //{
+            //    Title = "Hello World Entity Framework",
+            //    Description = "Learn about the entity Framework"
+            //};
+
+            /*
+            var meContext = new MeContext();
+            meContext.Database.Delete();
+            meContext.Videos.Add(vid);
+            meContext.SaveChanges();
+
+            var meVideo = meContext.Videos.Single();
+            Console.WriteLine(meVideo.ID + "; " + meVideo.Title);
+            Console.ReadLine();
+            */
+
+            // CRUD = Create, Read, Update, Delete
+            //var meContext1 = new MeContext();
+            //Video vid = new Video
+            //{
+
+            //    Title = "Entityr Framework CRUD Operations",
+            //    Description = "Learn the meaning of CRUD"
+            //};
+
+            //meContext1.Videos.Add(vid);
+            //meContext1.SaveChanges();
+            /*             Video vidr = meContext1.Videos.Where(x => x.ID == 2).First();
+                        Console.WriteLine(vidr.Title);
+                        meContext1.Videos.Remove(vidr);
+                        meContext1.SaveChanges();
+                        Console.ReadLine(); */
+
+========================================================
+#ONE-TO-MANY VS. MANY-TO-MANY RELATIONSSHIPS
+            MeContext db = new MeContext();
+            /*
+            db.Videos.Select(v => v.Title).ToList().ForEach(Console.WriteLine);
+            PlayList theList = db.PlayLists.Include(list => list.Videos).Single();
+            foreach (Video vid in theList.Videos)
+            {
+                Console.WriteLine(vid.Title);
+            }
+            return;
+            */
+            db.Database.Delete();
+            Video meAwesomeVideo = new Video
+            {
+                Title = "The next Viral hit",
+                Description = "Share with your friends."
+            };
+
+            //db.Videos.Add(meVideo);
+            PlayList mePlayList = new PlayList();
+            mePlayList.Title = "Entiry framework playlist";
+            mePlayList.Videos = new List<Video>() { meAwesomeVideo };
+            PlayList meOtherPlaylist = new PlayList();
+            meOtherPlaylist.Title = "Epicness";
+
+            mePlayList.Videos = new List<Video>() { meAwesomeVideo };
+            meOtherPlaylist.Videos = new List<Video>() { meAwesomeVideo };
+
+            db.PlayLists.Add(mePlayList); // this won't 'cause ref excep
+            db.PlayLists.Add(meOtherPlaylist);
+            Console.WriteLine(mePlayList);
+            Console.WriteLine(meOtherPlaylist);
+            db.SaveChanges();
+==============================================

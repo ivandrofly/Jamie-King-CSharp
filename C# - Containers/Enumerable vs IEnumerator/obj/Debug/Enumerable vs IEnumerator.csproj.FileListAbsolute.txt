@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Enumerable vs IEnumerator\bin\Debug\Enumerable vs IEnumerator.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Enumerable vs IEnumerator\bin\Debug\Enumerable vs IEnumerator.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Enumerable vs IEnumerator\bin\Debug\Enumerable vs IEnumerator.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Enumerable vs IEnumerator\obj\Debug\Enumerable vs IEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Enumerable vs IEnumerator\obj\Debug\Enumerable vs IEnumerator.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Containers\Enumerable vs IEnumerator\obj\Debug\Enumerable vs IEnumerator.pdb

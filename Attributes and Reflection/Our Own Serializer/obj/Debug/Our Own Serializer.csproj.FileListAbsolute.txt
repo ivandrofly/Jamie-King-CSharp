@@ -1,0 +1,1 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\Attributes and Reflection\Our Own Serializer\bin\Debug\Our Own Serializer.exe.config

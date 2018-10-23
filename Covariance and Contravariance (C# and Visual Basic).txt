@@ -1,0 +1,4 @@
+In C# and Visual Basic, covariance and contravariance enable implicit reference conversion for array types, delegate types, and generic type arguments. Covariance preserves assignment compatibility and contravariance reverses it.
+The following code demonstrates the difference between assignment compatibility, covariance, and contravariance.
+
+http://msdn.microsoft.com/en-us/library/ee207183.aspx

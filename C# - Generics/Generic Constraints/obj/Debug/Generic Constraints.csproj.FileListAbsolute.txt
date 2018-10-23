@@ -1,0 +1,10 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\obj\Debug\Generic Constraints.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\obj\Debug\Generic Constraints.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\obj\Debug\Generic Constraints.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\bin\Debug\Generic Constraints.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\bin\Debug\Generic Constraints.exe.manifest
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\bin\Debug\Generic Constraints.application
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\bin\Debug\Generic Constraints.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\bin\Debug\Generic Constraints.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\obj\Debug\Generic Constraints.exe.manifest
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Constraints\obj\Debug\Generic Constraints.application

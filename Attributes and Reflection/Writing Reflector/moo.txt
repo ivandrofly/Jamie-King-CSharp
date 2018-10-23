@@ -1,0 +1,283 @@
+
+//  Microsoft (R) .NET Framework IL Disassembler.  Version 4.0.30319.33440
+//  Copyright (c) Microsoft Corporation.  All rights reserved.
+
+
+
+// Metadata version: v4.0.30319
+.assembly extern mscorlib
+{
+  .publickeytoken = (B7 7A 5C 56 19 34 E0 89 )                         // .z\V.4..
+  .ver 4:0:0:0
+}
+.assembly Program
+{
+  .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilationRelaxationsAttribute::.ctor(int32) = ( 01 00 08 00 00 00 00 00 ) 
+  .custom instance void [mscorlib]System.Runtime.CompilerServices.RuntimeCompatibilityAttribute::.ctor() = ( 01 00 01 00 54 02 16 57 72 61 70 4E 6F 6E 45 78   // ....T..WrapNonEx
+                                                                                                             63 65 70 74 69 6F 6E 54 68 72 6F 77 73 01 )       // ceptionThrows.
+  .hash algorithm 0x00008004
+  .ver 0:0:0:0
+}
+.module Program.exe
+// MVID: {94E8CAE2-C8D3-4275-B6F1-8AD78CDC7271}
+.imagebase 0x00400000
+.file alignment 0x00000200
+.stackreserve 0x00100000
+.subsystem 0x0003       // WINDOWS_CUI
+.corflags 0x00000001    //  ILONLY
+// Image base: 0x00970000
+
+
+// =============== CLASS MEMBERS DECLARATION ===================
+
+.class private auto ansi beforefieldinit Writing_Reflector.Person
+       extends [mscorlib]System.Object
+{
+  .field public int32 meField
+  .field private class [mscorlib]System.Action GotSomeAction
+  .field private string '<FirstName>k__BackingField'
+  .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+  .field private string '<LastName>k__BackingField'
+  .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+  .field private int32 '<Age>k__BackingField'
+  .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+  .method public hidebysig specialname rtspecialname 
+          instance void  .ctor() cil managed
+  {
+    // Code size       10 (0xa)
+    .maxstack  8
+    IL_0000:  ldarg.0
+    IL_0001:  call       instance void [mscorlib]System.Object::.ctor()
+    IL_0006:  nop
+    IL_0007:  nop
+    IL_0008:  nop
+    IL_0009:  ret
+  } // end of method Person::.ctor
+
+  .method public hidebysig specialname instance string 
+          get_FirstName() cil managed
+  {
+    .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+    // Code size       11 (0xb)
+    .maxstack  1
+    .locals init (string V_0)
+    IL_0000:  ldarg.0
+    IL_0001:  ldfld      string Writing_Reflector.Person::'<FirstName>k__BackingField'
+    IL_0006:  stloc.0
+    IL_0007:  br.s       IL_0009
+
+    IL_0009:  ldloc.0
+    IL_000a:  ret
+  } // end of method Person::get_FirstName
+
+  .method public hidebysig specialname instance void 
+          set_FirstName(string 'value') cil managed
+  {
+    .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+    // Code size       8 (0x8)
+    .maxstack  8
+    IL_0000:  ldarg.0
+    IL_0001:  ldarg.1
+    IL_0002:  stfld      string Writing_Reflector.Person::'<FirstName>k__BackingField'
+    IL_0007:  ret
+  } // end of method Person::set_FirstName
+
+  .method public hidebysig specialname instance string 
+          get_LastName() cil managed
+  {
+    .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+    // Code size       11 (0xb)
+    .maxstack  1
+    .locals init (string V_0)
+    IL_0000:  ldarg.0
+    IL_0001:  ldfld      string Writing_Reflector.Person::'<LastName>k__BackingField'
+    IL_0006:  stloc.0
+    IL_0007:  br.s       IL_0009
+
+    IL_0009:  ldloc.0
+    IL_000a:  ret
+  } // end of method Person::get_LastName
+
+  .method public hidebysig specialname instance void 
+          set_LastName(string 'value') cil managed
+  {
+    .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+    // Code size       8 (0x8)
+    .maxstack  8
+    IL_0000:  ldarg.0
+    IL_0001:  ldarg.1
+    IL_0002:  stfld      string Writing_Reflector.Person::'<LastName>k__BackingField'
+    IL_0007:  ret
+  } // end of method Person::set_LastName
+
+  .method public hidebysig specialname instance int32 
+          get_Age() cil managed
+  {
+    .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+    // Code size       11 (0xb)
+    .maxstack  1
+    .locals init (int32 V_0)
+    IL_0000:  ldarg.0
+    IL_0001:  ldfld      int32 Writing_Reflector.Person::'<Age>k__BackingField'
+    IL_0006:  stloc.0
+    IL_0007:  br.s       IL_0009
+
+    IL_0009:  ldloc.0
+    IL_000a:  ret
+  } // end of method Person::get_Age
+
+  .method public hidebysig specialname instance void 
+          set_Age(int32 'value') cil managed
+  {
+    .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor() = ( 01 00 00 00 ) 
+    // Code size       8 (0x8)
+    .maxstack  8
+    IL_0000:  ldarg.0
+    IL_0001:  ldarg.1
+    IL_0002:  stfld      int32 Writing_Reflector.Person::'<Age>k__BackingField'
+    IL_0007:  ret
+  } // end of method Person::set_Age
+
+  .method public hidebysig instance void 
+          AnnounceThyself() cil managed
+  {
+    // Code size       13 (0xd)
+    .maxstack  8
+    IL_0000:  nop
+    IL_0001:  ldstr      "Boooooooooahh"
+    IL_0006:  call       void [mscorlib]System.Console::WriteLine(string)
+    IL_000b:  nop
+    IL_000c:  ret
+  } // end of method Person::AnnounceThyself
+
+  .method public hidebysig specialname instance void 
+          add_GotSomeAction(class [mscorlib]System.Action 'value') cil managed
+  {
+    // Code size       48 (0x30)
+    .maxstack  3
+    .locals init (class [mscorlib]System.Action V_0,
+             class [mscorlib]System.Action V_1,
+             class [mscorlib]System.Action V_2,
+             bool V_3)
+    IL_0000:  ldarg.0
+    IL_0001:  ldfld      class [mscorlib]System.Action Writing_Reflector.Person::GotSomeAction
+    IL_0006:  stloc.0
+    IL_0007:  ldloc.0
+    IL_0008:  stloc.1
+    IL_0009:  ldloc.1
+    IL_000a:  ldarg.1
+    IL_000b:  call       class [mscorlib]System.Delegate [mscorlib]System.Delegate::Combine(class [mscorlib]System.Delegate,
+                                                                                            class [mscorlib]System.Delegate)
+    IL_0010:  castclass  [mscorlib]System.Action
+    IL_0015:  stloc.2
+    IL_0016:  ldarg.0
+    IL_0017:  ldflda     class [mscorlib]System.Action Writing_Reflector.Person::GotSomeAction
+    IL_001c:  ldloc.2
+    IL_001d:  ldloc.1
+    IL_001e:  call       !!0 [mscorlib]System.Threading.Interlocked::CompareExchange<class [mscorlib]System.Action>(!!0&,
+                                                                                                                    !!0,
+                                                                                                                    !!0)
+    IL_0023:  stloc.0
+    IL_0024:  ldloc.0
+    IL_0025:  ldloc.1
+    IL_0026:  ceq
+    IL_0028:  ldc.i4.0
+    IL_0029:  ceq
+    IL_002b:  stloc.3
+    IL_002c:  ldloc.3
+    IL_002d:  brtrue.s   IL_0007
+
+    IL_002f:  ret
+  } // end of method Person::add_GotSomeAction
+
+  .method public hidebysig specialname instance void 
+          remove_GotSomeAction(class [mscorlib]System.Action 'value') cil managed
+  {
+    // Code size       48 (0x30)
+    .maxstack  3
+    .locals init (class [mscorlib]System.Action V_0,
+             class [mscorlib]System.Action V_1,
+             class [mscorlib]System.Action V_2,
+             bool V_3)
+    IL_0000:  ldarg.0
+    IL_0001:  ldfld      class [mscorlib]System.Action Writing_Reflector.Person::GotSomeAction
+    IL_0006:  stloc.0
+    IL_0007:  ldloc.0
+    IL_0008:  stloc.1
+    IL_0009:  ldloc.1
+    IL_000a:  ldarg.1
+    IL_000b:  call       class [mscorlib]System.Delegate [mscorlib]System.Delegate::Remove(class [mscorlib]System.Delegate,
+                                                                                           class [mscorlib]System.Delegate)
+    IL_0010:  castclass  [mscorlib]System.Action
+    IL_0015:  stloc.2
+    IL_0016:  ldarg.0
+    IL_0017:  ldflda     class [mscorlib]System.Action Writing_Reflector.Person::GotSomeAction
+    IL_001c:  ldloc.2
+    IL_001d:  ldloc.1
+    IL_001e:  call       !!0 [mscorlib]System.Threading.Interlocked::CompareExchange<class [mscorlib]System.Action>(!!0&,
+                                                                                                                    !!0,
+                                                                                                                    !!0)
+    IL_0023:  stloc.0
+    IL_0024:  ldloc.0
+    IL_0025:  ldloc.1
+    IL_0026:  ceq
+    IL_0028:  ldc.i4.0
+    IL_0029:  ceq
+    IL_002b:  stloc.3
+    IL_002c:  ldloc.3
+    IL_002d:  brtrue.s   IL_0007
+
+    IL_002f:  ret
+  } // end of method Person::remove_GotSomeAction
+
+  .event [mscorlib]System.Action GotSomeAction
+  {
+    .addon instance void Writing_Reflector.Person::add_GotSomeAction(class [mscorlib]System.Action)
+    .removeon instance void Writing_Reflector.Person::remove_GotSomeAction(class [mscorlib]System.Action)
+  } // end of event Person::GotSomeAction
+  .property instance string FirstName()
+  {
+    .set instance void Writing_Reflector.Person::set_FirstName(string)
+    .get instance string Writing_Reflector.Person::get_FirstName()
+  } // end of property Person::FirstName
+  .property instance string LastName()
+  {
+    .set instance void Writing_Reflector.Person::set_LastName(string)
+    .get instance string Writing_Reflector.Person::get_LastName()
+  } // end of property Person::LastName
+  .property instance int32 Age()
+  {
+    .set instance void Writing_Reflector.Person::set_Age(int32)
+    .get instance int32 Writing_Reflector.Person::get_Age()
+  } // end of property Person::Age
+} // end of class Writing_Reflector.Person
+
+.class private auto ansi beforefieldinit Writing_Reflector.Program
+       extends [mscorlib]System.Object
+{
+  .method private hidebysig static void  Main() cil managed
+  {
+    .entrypoint
+    // Code size       2 (0x2)
+    .maxstack  8
+    IL_0000:  nop
+    IL_0001:  ret
+  } // end of method Program::Main
+
+  .method public hidebysig specialname rtspecialname 
+          instance void  .ctor() cil managed
+  {
+    // Code size       7 (0x7)
+    .maxstack  8
+    IL_0000:  ldarg.0
+    IL_0001:  call       instance void [mscorlib]System.Object::.ctor()
+    IL_0006:  ret
+  } // end of method Program::.ctor
+
+} // end of class Writing_Reflector.Program
+
+
+// =============================================================
+
+// *********** DISASSEMBLY COMPLETE ***********************
+// WARNING: Created Win32 resource file moo.res

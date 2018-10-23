@@ -1,0 +1,9 @@
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\bin\Debug\Generic Data Structure.exe.config
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\bin\Debug\Generic Data Structure.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\bin\Debug\Generic Data Structure.pdb
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\bin\Debug\Generic Data Structure.exe.CodeAnalysisLog.xml
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\bin\Debug\Generic Data Structure.exe.lastcodeanalysissucceeded
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\obj\Debug\Generic Data Structure.csprojResolveAssemblyReference.cache
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\obj\Debug\Generic Data Structure.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Data Structure\obj\Debug\Generic Data Structure.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Generics\Generic Data Structure\bin\Debug\Generic Data Structure.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Linq Example 2\bin\Debug\Linq Example 2.exe.config
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Linq Example 2\bin\Debug\Linq Example 2.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Linq Example 2\bin\Debug\Linq Example 2.pdb
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Linq Example 2\obj\Debug\Linq Example 2.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\LINQ\Linq Example 2\obj\Debug\Linq Example 2.pdb

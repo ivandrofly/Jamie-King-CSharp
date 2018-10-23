@@ -1,0 +1,10 @@
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\bin\Debug\Entity FrameWork.exe.config
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\bin\Debug\Entity FrameWork.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\bin\Debug\Entity FrameWork.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\bin\Debug\EntityFramework.dll
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\bin\Debug\EntityFramework.xml
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\obj\Debug\Entity FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\obj\Debug\Entity FrameWork.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\Entity FrameWork\Entity FrameWork\Entity FrameWork\obj\Debug\Entity FrameWork.pdb

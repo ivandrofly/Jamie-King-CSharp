@@ -1,0 +1,1 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\Jamie King\C# - Delegates, Lambda, Events\Func and Action\bin\Debug\Func and Action.exe.config

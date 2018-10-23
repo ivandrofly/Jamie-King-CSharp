@@ -1,0 +1,7 @@
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Type Instantiation\bin\Debug\Generic Type Instantiation.exe.config
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Type Instantiation\bin\Debug\Generic Type Instantiation.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Type Instantiation\bin\Debug\Generic Type Instantiation.pdb
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Type Instantiation\bin\Debug\Generic Type Instantiation.exe.CodeAnalysisLog.xml
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Type Instantiation\bin\Debug\Generic Type Instantiation.exe.lastcodeanalysissucceeded
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Type Instantiation\obj\Debug\Generic Type Instantiation.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - Jamie King\C# - Generics\Generics Intro\Generic Type Instantiation\obj\Debug\Generic Type Instantiation.pdb
